@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>ProductiveRage.Immutable</id>
-    <version>4.2.0</version>
-    <title>ProductiveRage.Immutable (for Bridge.NET)</title>
+    <id>Bridge.Immutable</id>
+    <version>4.2.1</version>
+    <title>Bridge.Immutable (for Bridge.NET)</title>
     <authors>ProductiveRage</authors>
     <owners>ProductiveRage</owners>
     <licenseUrl>https://github.com/NewmindTellus/Bridge.Immutable/blob/master/LICENSE</licenseUrl>
